@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/traveling-blog/static/css/main.0c66ba46.css",
+    "main.js": "/traveling-blog/static/js/main.0f537d50.js",
+    "static/js/787.fa4a499b.chunk.js": "/traveling-blog/static/js/787.fa4a499b.chunk.js",
+    "index.html": "/traveling-blog/index.html",
+    "main.0c66ba46.css.map": "/traveling-blog/static/css/main.0c66ba46.css.map",
+    "main.0f537d50.js.map": "/traveling-blog/static/js/main.0f537d50.js.map",
+    "787.fa4a499b.chunk.js.map": "/traveling-blog/static/js/787.fa4a499b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c66ba46.css",
+    "static/js/main.0f537d50.js"
+  ]
+}
